@@ -1,0 +1,25 @@
+h1  {
+    color: pink;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+p {
+    margin: 0;
+    text-align: center;
+}
+div.main-block {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+img {
+    max-width: 100px;
+    height: auto;
+}
+a {
+    text-align: center;
+    color: blue;
+    text-decoration: none;
+    display: block;
+}
